@@ -3,23 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://roegiest.com/about/</loc>
+    <loc>roegiest.com/publications/</loc>
+    <lastmod>2019-01-04T22:31:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>roegiest.com/about/</loc>
     <lastmod>2019-01-04T21:31:34-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://roegiest.com/</loc>
-    <lastmod>2019-01-04T21:31:34-05:00</lastmod>
+    <loc>roegiest.com/</loc>
+    <lastmod>2019-01-04T22:31:38-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://roegiest.com/categories/</loc>
+    <loc>roegiest.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://roegiest.com/tags/</loc>
+    <loc>roegiest.com/tags/</loc>
     <priority>0</priority>
   </url>
   
