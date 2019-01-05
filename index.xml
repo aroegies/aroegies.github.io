@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adam Roegiest</title>
+    <link>roegiest.com/</link>
+    <description>Recent content on Adam Roegiest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 04 Jan 2019 22:31:38 -0500</lastBuildDate>
+    
+	<atom:link href="roegiest.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Publications</title>
+      <link>roegiest.com/publications/</link>
+      <pubDate>Fri, 04 Jan 2019 22:31:38 -0500</pubDate>
+      
+      <guid>roegiest.com/publications/</guid>
+      <description>2019 Jonathan Donnelly, Adam Roegiest. On Interpretability and Feature Representations: An Analysis of the Sentiiment Neuron. ECIR 2019.
+Winter Wei, Adam Roegiest. Mary Mikhail. From Bubbles to Lists: Designing Clustering for Due Diligence. CHIIR 2019.
+Adam Roegiest, Anne McNulty. Variations in Assessor Agreement in Due Diligence. CHIIR 2019.
+2018 Adam Roegiest, Winter Wei. Redesigning a Document Viewer for Legal Documents. CHIIR 2018.
+Adam Roegiest, Alexander K. Hudek, Anne McNulty. A Dataset and an Examination of Identifying Passages for Due Diligence.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>roegiest.com/about/</link>
+      <pubDate>Fri, 04 Jan 2019 21:31:34 -0500</pubDate>
+      
+      <guid>roegiest.com/about/</guid>
+      <description>I&amp;rsquo;m a Research Scientist at Kira Systems based out of Toronto, Canada. Prior to Kira, I completed my PhD at the University of Waterloo under the supervision of Gordon V. Cormack (and sometimes Charlie Clarke, when Gordon was on sabbatical).
+My primary interests are in the design and evaluation of human-in-the-loop (i.e., explicit feedback) Information Retrieval systems. This has generally been expressed through research in electronic discovery in civil litgation and due diligence law.</description>
+    </item>
+    
+  </channel>
+</rss>
