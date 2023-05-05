@@ -1,26 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Adam Roegiest</title>
     <link>https://roegiest.com/</link>
     <description>Recent content on Adam Roegiest</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Fri, 04 Jan 2019 22:31:38 -0500</lastBuildDate>
-    
-	<atom:link href="https://roegiest.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en</language><atom:link href="https://roegiest.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Publications</title>
       <link>https://roegiest.com/publications/</link>
       <pubDate>Fri, 04 Jan 2019 22:31:38 -0500</pubDate>
       
       <guid>https://roegiest.com/publications/</guid>
-      <description>2020 Mary Mikhail, Adam Roegiest, Karen Anello, Winter Wei. Dancing with the AI Devil: Investigating the Partnership Between Lawyers and AI. CHIIR 2020.
-Jean-Philippe Gauthier, Adam Roegiest. Spectator: An Open Source Document Viewer. CHIIR 2020.
-2019 Adam Roegiest, Edward Lee. On Tradeoffs Between Document Signature Methods for a Legal Due Diligence Corpus. SIGIR 2019.
-Jonathan Donnelly, Adam Roegiest. On Interpretability and Feature Representations: An Analysis of the Sentiment Neuron. ECIR 2019.</description>
+      <description>2023  Link to heading   Alexandra Vtyurina, Adam Roegiest, Chelsea Kerr. Non-popular Items for Accurate &amp;amp; Diverse Linear Auto-Encoding Recommenders. CHIIR 2023.
+2022  Link to heading   Farhan Khawar, Adam Roegiest. Non-popular Items for Accurate &amp;amp; Diverse Linear Auto-Encoding Recommenders. ICTIR 2022.
+2021  Link to heading   Sam Fletcher, Adam Roegiest, Alexander K. Hudek. Towards Protecting Sensitive Text with Differential Privacy. TrustCom 2021.
+2020  Link to heading   Mary Mikhail, Adam Roegiest, Karen Anello, Winter Wei.</description>
     </item>
     
     <item>
