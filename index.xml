@@ -5,26 +5,22 @@
     <link>https://roegiest.com/</link>
     <description>Recent content on Adam Roegiest</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://roegiest.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Fri, 04 Jan 2019 22:31:38 -0500</lastBuildDate>
+    <atom:link href="https://roegiest.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Publications</title>
       <link>https://roegiest.com/publications/</link>
       <pubDate>Fri, 04 Jan 2019 22:31:38 -0500</pubDate>
-      
       <guid>https://roegiest.com/publications/</guid>
-      <description>2023  Link to heading   Alexandra Vtyurina, Adam Roegiest, Chelsea Kerr. Building a Better Mousetrap: Tools and Processes for Selling A Company. CHIIR 2023.
-2022  Link to heading   Farhan Khawar, Adam Roegiest. Non-popular Items for Accurate &amp;amp; Diverse Linear Auto-Encoding Recommenders. ICTIR 2022.
-2021  Link to heading   Sam Fletcher, Adam Roegiest, Alexander K. Hudek. Towards Protecting Sensitive Text with Differential Privacy. TrustCom 2021.</description>
+      <description>2024 Link to heading Adam Roegiest, Zuzana Pinkosova. Generative Information Systems Are Great If You Can Read. CHIIR 2024.&#xA;Adam Roegiest, Johanne Trippas. UnExplored FrontCHIIRs: A Workshop Exploring Future Directions for Information Access CHIIR 2024.&#xA;2023 Link to heading Alexandra Vtyurina, Adam Roegiest, Chelsea Kerr. Building a Better Mousetrap: Tools and Processes for Selling A Company. CHIIR 2023.&#xA;Adam Roegiest, Radha Chitta, Jonathan Donnelly, Maya Lash, Alexandra Vtyurina, François Longtin.</description>
     </item>
-    
     <item>
       <title>About</title>
       <link>https://roegiest.com/about/</link>
       <pubDate>Fri, 04 Jan 2019 21:31:34 -0500</pubDate>
-      
       <guid>https://roegiest.com/about/</guid>
-      <description>I am currently the Director of Research at Kira Systems where I guide the direction of the team and aid in the deployment of the team&amp;rsquo;s insight into production. Prior to this I was alternatingly a Product Manager and Research Scientist at Kira. Prior to Kira, I completed my PhD at the University of Waterloo under the supervision of Gordon V. Cormack (and occasionally Charlie Clarke, when Gordon was on sabbatical).</description>
+      <description>I am currently the VP of Research and Technology at Zuva where I oversee the Engineering, Product, Design, Research, and Legal Knowledge Engineering departments and as an executive help other departments where I can. My day-to-day work generally involves helping my teams to set directions and measure progress on their goals. I still occassionally do development and research as part of my role but it is not a primary objective at the moment.</description>
     </item>
-    
   </channel>
 </rss>

@@ -2,13 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://roegiest.com/</loc>
+    <lastmod>2019-01-04T22:31:38-05:00</lastmod>
+  </url><url>
     <loc>https://roegiest.com/publications/</loc>
     <lastmod>2019-01-04T22:31:38-05:00</lastmod>
   </url><url>
     <loc>https://roegiest.com/about/</loc>
     <lastmod>2019-01-04T21:31:34-05:00</lastmod>
-  </url><url>
-    <loc>https://roegiest.com/</loc>
   </url><url>
     <loc>https://roegiest.com/categories/</loc>
   </url><url>
